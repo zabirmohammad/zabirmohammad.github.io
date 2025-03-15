@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-TI am Zabir Mohammad, a researcher in computer vision and machine learning, specializing in self-supervised learning, representation learning, and human activity recognition. My research focuses on developing robust and scalable models for writer recognition, image retrieval, and fall detection, leveraging techniques like Vision Transformers (ViTs), Siamese Networks, and contrastive learning.
+I am Zabir Mohammad, a prospective graduate student with a strong research background in computer vision, machine learning, and human activity recognition. My work focuses on self-supervised learning and representation learning, particularly in biometric identifier, image retrieval, and multimodal sensor-based activity recognition.
 
-With over three years of research experience, I have contributed to multiple Q1 and Q2 journal publications as the first author, collaborating with esteemed institutions like King Abdulaziz University and AMIR Lab. My work in self-supervised writer identification has led to novel approaches for clustering handwriting features without labeled data, while my efforts in human activity recognition have introduced ensemble models to tackle imbalanced datasets effectively.
+I have contributed to multiple Q1 and Q2 journal publications, collaborating with institutions like King Abdulaziz University and AMIR Lab. My research at KAU introduced a self-supervised learning approach for handwriting-based biometrics, leveraging contrastive learning and pseudo-labeling to cluster handwriting patterns without labeled data. At AMIR Lab, I developed ensemble deep learning models to address challenges in fall detection and human activity recognition, tackling imbalanced datasets effectively. Currently, I am working on self-supervised image retrieval using Vision Transformers (ViTs) to enhance retrieval performance in large-scale datasets.
 
-Beyond research, I actively peer-review scientific manuscripts for Springer Nature and mentor undergraduate students in their research endeavors. My goal is to push the boundaries of representation learning and its real-world applications, making AI models more generalizable, interpretable, and efficient.
+Beyond research, I actively peer-review scientific manuscripts for Springer Nature and mentor undergraduate students in AI and computer vision. My goal is to advance representation learning for more generalizable and efficient models that can be applied to diverse real-world challenges.
+
+I am eager to explore opportunities in graduate research and collaborate on cutting-edge advancements in self-supervised learning, biometrics, and human-centered AI.
 
 # Research Interests
 
