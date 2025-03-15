@@ -7,7 +7,7 @@ excerpt: "This paper presents a method for writer-independent signature verifica
 date: 2021-12-18
 venue: "24th International Conference on Computer and Information Technology (ICCIT), IEEE"
 slidesurl: ""
-paperurl: "https://github.com/zabirmohammad/zabirmohammad.github.io/files/Signature-Verification.pdf"
+paperurl: "https://github.com/zabirmohammad/zabirmohammad.github.io/tree/master/files/Signature-Verification.pdf"
 slides_url: "https://doi.org/10.1109/ICCIT54785.2021.9689780"
 citation: 'Zabir Mohammad, Israt Jahan, Md Mohsin Kabir, M Ameer Ali, MF Mridha. (2021). "An Offline Writer-independent Signature Verification System using AutoEmbedder." <i>ICCIT, IEEE</i>.'
 ---
