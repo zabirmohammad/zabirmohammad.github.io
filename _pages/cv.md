@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my CV in PDF format by clicking the link below:
+
+[Download CV](./files/Academic_CV.pdf)
+
 ## Education
 
 - **B.Sc. in Computer Science and Engineering**, Bangladesh University of Business and Technology, 2021.
