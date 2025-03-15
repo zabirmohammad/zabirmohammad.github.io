@@ -11,7 +11,7 @@ redirect_from:
 
 You can download my CV in PDF format by clicking the link below:
 
-[Download CV](./files/Academic_CV.pdf)
+[Download CV](files/Academic_CV.pdf)
 
 ## Education
 
