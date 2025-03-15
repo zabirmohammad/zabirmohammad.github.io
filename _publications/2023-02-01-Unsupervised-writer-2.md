@@ -7,8 +7,7 @@ excerpt: "This paper introduces an unsupervised approach for writer identificati
 date: 2023-02-01
 venue: "Computer Systems Science & Engineering, Vol. 46, Issue 2"
 slidesurl: ""
-slides_url: "https://doi.org/10.32604/csse.2023.032977"
-paperurl: "https://github.com/zabirmohammad/zabirmohammad.github.io/files/tree/master/Unsupervised-writer.pdf"
+paperurl: "https://doi.org/10.32604/csse.2023.032977"
 citation: 'MF Mridha, Zabir Mohammad, Muhammad Mohsin Kabir, Aklima Akter Lima, Sujoy Chandra Das, Md Rashedul Islam, Yutaka Watanobe. (2023). "An Unsupervised Writer Identification Based on Generating Clusterable Embeddings." <i>Computer Systems Science & Engineering</i>.'
 ---
 
