@@ -22,6 +22,7 @@ You can download my CV in PDF format by clicking the link below:
 ## Work Experience
 
 - **Advanced Machine Intelligence Research Lab**, Dhaka, Bangladesh (Jan 2023 - Present)
+  **_Researcher, Department of Deep Learning and Computer Vision._**
 
   - Conducting research in gait analysis using multimodal sensor data for pre-fall detection.
   - Developed an ensemble CNN-RNN model for fall detection in imbalanced datasets.
