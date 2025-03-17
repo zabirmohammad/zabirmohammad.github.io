@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,7 +22,8 @@ You can download my CV in PDF format by clicking the link below:
 ## Work Experience
 
 - **Advanced Machine Intelligence Research Lab**, Dhaka, Bangladesh (Jan 2023 - Present)
-  **Researcher,** Department of Deep Learning and Computer Vision.
+
+  <i>Researcher,</i> <small><i>Department of Deep Learning and Computer Vision</i></small>
 
   - Conducting research in gait analysis using multimodal sensor data for pre-fall detection.
   - Developed an ensemble CNN-RNN model for fall detection in imbalanced datasets.
@@ -31,7 +32,8 @@ You can download my CV in PDF format by clicking the link below:
   - Developing a self-supervised image retrieval system using Vision Transformers (ViTs).
 
 - **King Abdul Aziz University** (Sept 2022 - Jan 2023)
-  **Adjunct Co-investigator,** Department of Information Technology.
+
+  <i>Adjunct Co-investigator,</i> <small><i>Department of Information Technology.</i></small>
 
   - Developed a self-supervised writer identification model from unlabeled data.
   - Designed a pairwise training pipeline for handwriting clustering.
@@ -39,7 +41,9 @@ You can download my CV in PDF format by clicking the link below:
   - Published research in _Mathematics_ journal.
 
 - **Bangladesh University of Business and Technology**, Dhaka, Bangladesh (Jun 2021 - Dec 2022)
-  **Researach Assistant,** Department of Computer Science and Engineering
+
+  <i>Researach Assistant,</i> <small><i>Department of Computer Science and Engineering</i></small>
+
   - Developed deep learning models for signature verification and writer identification.
   - Improved handwriting recognition accuracy with robust feature extraction.
   - Assisted in manuscript preparation and presented research findings at ICCIT 2021.
