@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Python for Deep Learning Basics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Technical Session"
+permalink: /teaching/2024-python-basics
+venue: "Advanced Machine Intelligence Research Lab (AMIR Lab)"
+date: 2024-10-01
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Delivered an introductory session on Python fundamentals for deep learning, covering data preprocessing, visualization, and essential libraries. Assisted students in writing and running basic scripts.
+
+
 
 Heading 1
 ======
