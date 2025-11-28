@@ -1,7 +1,7 @@
 ---
 title: "Reviewer Recognition – The Journal of Supercomputing"
 date: 17-03-2025
-permalink: /news/2025/03/reviewer-supercomputing/
+permalink: /posts/2025/03/reviewer-supercomputing/
 tags:
   - academic service
   - peer review
