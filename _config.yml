@@ -27,7 +27,8 @@ author:
   pronouns: # example: "she/her"
   bio: "Researcher, Department of Deep Learning and Computer Vision, AMIR Lab"
   location: "Dhaka, Bangladesh"
-  employer: "<a href='https://amirl.org/' target='_blank'>AMIR Lab</a>"
+  employer: "AMIR Lab"
+  employer_url: "https://amirl.org/"
   uri: #URL
   email: "zabirmohammad02@gmail.com"
 
