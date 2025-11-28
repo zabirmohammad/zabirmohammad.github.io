@@ -33,7 +33,7 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %} -->
-      {% if author.employer and author.employer_url %}
+      {% if author.employer and author.uri %}
         <li class="author__desktop">
           <a href="{{ author.uri }}" target="_blank" style="display: inline-flex; align-items: center; gap: 4px;">
             <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>
